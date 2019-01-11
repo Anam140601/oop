@@ -10,5 +10,19 @@ $cetakProduk = new CetakInfoProduk();
 $cetakProduk->tambahProduk($laptop1);
 $cetakProduk->tambahProduk($hp1);
 $cetakProduk->tambahProduk($ssd1);
-echo $cetakProduk->cetak();
  ?>
+
+ <html>
+ 	<head>
+ 		<title></title>
+ 	</head>
+ 	<body>
+ 		<div>
+ 			<table border="1" width="100%">
+ 				<td><?php echo $cetakProduk->cetak(); ; ?></td>
+ 			</table>
+ 		</div>
+ 		
+ 		</div>
+ 	</body>
+ </html>
