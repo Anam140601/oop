@@ -5,11 +5,13 @@ require_once 'App/init.php';
 $laptop1 = new laptop("ASUS","GL503GE","Prosesor Intel Core i7 8850h 2.2GHz up to 4GHz","2765gr","Medium Level","YES","720p",17000000);
 $hp1 = new hp("XIAOMI","Redmi note 3 pro","Snapdragon 660 hexa core","156gr","16Mp",1500000);
 $ssd1 = new ssd("SanDisk","SSD Plus","R/W speed up to 530 MB/s","98gr","120 GB",375000);
+$ssd2 = new ssd("WD","Green","R/W speed up to 400MB/s","100gr","120 GB",300000);
 
 $cetakProduk = new CetakInfoProduk();
 $cetakProduk->tambahProduk($laptop1);
 $cetakProduk->tambahProduk($hp1);
 $cetakProduk->tambahProduk($ssd1);
+$cetakProduk->tambahProduk($ssd2);
  ?>
 
  <html>
@@ -19,49 +21,9 @@ $cetakProduk->tambahProduk($ssd1);
  	<body>
  		<div>
  			<table border="1" width="100%">
- 				<td><?php echo $cetakProduk->cetak(); ; ?></td>
+ 				<td><?php echo $cetakProduk->cetak(); ?></td>
  			</table>
  		</div>
- 		<div>
- 			<form action="" method="POST">
 
- 				<table border="0">
- 					<tr>
- 						<td><label for="merek">Merk : </label></td>
- 						<td><input type="text" name="merek"><br></td>
- 					</tr>
- 					<tr>
- 						<td><label for="jenis">Jenis : </label></td>
- 						<td><input type="text" name="jenis"><br></td>
- 					</tr>
- 					<tr>
- 						<td><label for="berat">Berat : </label></td>
- 						<td><input type="text" name="berat"><br></td>
- 					</tr>
- 					<tr>
- 						<td><label for="kelas">Kelas : </label></td>
- 						<td><input type="text" name="kelas"><br></td>
- 					</tr>
- 					<tr>
- 						<td><label for="RGB">RGB Suport : </label></td>
- 						<td><input type="text" name="RGB"><br></td>
- 					</tr>
- 					<tr>
- 						<td><label for="kamera">Kamera : </label></td>
- 						<td><input type="text" name="kamera"><br></td>
- 					</tr>
- 					<tr>
- 						<td><label for="harga">Harga : </label></td>
- 						<td><input type="text" name="harga"><br></td>
- 					</tr>
- 					<tr>
- 						<td><label for="spek">Spek : </label></td>
- 						<td><textarea name="spek" id="" cols="30" rows="10"></textarea></td>
- 					</tr>
- 				</table>
- 				
-
- 			</form>
- 		</div>
  	</body>
  </html>
