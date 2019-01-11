@@ -1,4 +1,4 @@
-<?php 
+<?php namespace App\Produk;
 class ssd extends produk implements infoProduk
 {
 	public $kapasitas;

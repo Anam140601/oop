@@ -1,4 +1,4 @@
-<?php 
+<?php namespace App\Produk;
 class laptop extends produk implements infoProduk
 {
 	public  $kelas,

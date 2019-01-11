@@ -1,4 +1,4 @@
-<?php 
+<?php namespace App\Produk;
 class hp extends produk implements infoProduk
 {
 	public $kamera;

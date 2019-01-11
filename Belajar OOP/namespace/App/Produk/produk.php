@@ -1,4 +1,4 @@
-<?php 
+<?php namespace App\Produk;
 abstract class produk{ 
 	protected $harga,
 			$merk,
