@@ -22,7 +22,46 @@ $cetakProduk->tambahProduk($ssd1);
  				<td><?php echo $cetakProduk->cetak(); ; ?></td>
  			</table>
  		</div>
- 		
+ 		<div>
+ 			<form action="" method="POST">
+
+ 				<table border="0">
+ 					<tr>
+ 						<td><label for="merek">Merk : </label></td>
+ 						<td><input type="text" name="merek"><br></td>
+ 					</tr>
+ 					<tr>
+ 						<td><label for="jenis">Jenis : </label></td>
+ 						<td><input type="text" name="jenis"><br></td>
+ 					</tr>
+ 					<tr>
+ 						<td><label for="berat">Berat : </label></td>
+ 						<td><input type="text" name="berat"><br></td>
+ 					</tr>
+ 					<tr>
+ 						<td><label for="kelas">Kelas : </label></td>
+ 						<td><input type="text" name="kelas"><br></td>
+ 					</tr>
+ 					<tr>
+ 						<td><label for="RGB">RGB Suport : </label></td>
+ 						<td><input type="text" name="RGB"><br></td>
+ 					</tr>
+ 					<tr>
+ 						<td><label for="kamera">Kamera : </label></td>
+ 						<td><input type="text" name="kamera"><br></td>
+ 					</tr>
+ 					<tr>
+ 						<td><label for="harga">Harga : </label></td>
+ 						<td><input type="text" name="harga"><br></td>
+ 					</tr>
+ 					<tr>
+ 						<td><label for="spek">Spek : </label></td>
+ 						<td><textarea name="spek" id="" cols="30" rows="10"></textarea></td>
+ 					</tr>
+ 				</table>
+ 				
+
+ 			</form>
  		</div>
  	</body>
  </html>
