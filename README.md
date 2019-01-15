@@ -59,21 +59,6 @@
 </div>
 
 <tab-container>
-<div class="select-menu-filters">
-  <div class="select-menu-text-filter">
-    <input type="text" aria-label="Find or create a branch…" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Find or create a branch…">
-  </div>
-  <div class="select-menu-tabs" role="tablist">
-    <ul>
-      <li class="select-menu-tab">
-        <button type="button" class="select-menu-tab-nav" data-filter-placeholder="Find or create a branch…" role="tab" aria-selected="true">Branches</button>
-      </li>
-      <li class="select-menu-tab">
-        <button type="button" class="select-menu-tab-nav" data-filter-placeholder="Find a tag…" role="tab">Tags</button>
-      </li>
-    </ul>
-  </div>
-</div>
 
 <div class="select-menu-list" role="tabpanel">
   <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
