@@ -492,7 +492,7 @@ belajar oop
 
 
 <div class="file-wrap">
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="https://github.com/Anam140601/OOP/tree/0f46748a0fb105446c487eb2e6ac6a062607b57d">Permalink</a>
+ 
 
   <table class="files js-navigation-container js-active-navigation-container" data-pjax="">
     <thead>
