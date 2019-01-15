@@ -53,15 +53,11 @@
              <div class="get-repo-modal-options">
                   <div class="clone-options https-clone-options">
                 <p class="mb-2 get-repo-decription-text">
-                Copy link di bawah lalu pastekan di git kamu.
+                Copy perintah git di bawah lalu pastekan di git kamu.
                 </p>
-                        <div class="input-group">
-                        <input type="text" class="form-control input-monospace input-sm" data-autoselect="" value="https://github.com/Anam140601/OOP.git" aria-label="Clone this repository at https://github.com/Anam140601/OOP.git" readonly="">
-                             <div>
-                              <clipboard-copy value="https://github.com/Anam140601/OOP.git" aria-label="Copy to clipboard" tabindex="0">
-                              </clipboard-copy>
-                            </div>
-                        </div>
+                <p class="mb-2 get-repo-decription-text">
+                git clone https://github.com/Anam140601/OOP.git
+                </p>
                   </div>
              </div>
             </div>
