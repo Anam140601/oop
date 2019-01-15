@@ -23,47 +23,15 @@ belajar oop
           </a>
         </li>
 
-        <li>
-          <a href="https://github.com/Anam140601/OOP/releases">
-            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"></path></svg>
-            <span class="num text-emphasized">
-            </span>
-            releases
-          </a>
-        </li>
+        
 
-          <li>
-            <a href="https://github.com/Anam140601/OOP/deployments">
-              <svg class="octicon octicon-rocket" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12.17 3.83c-.27-.27-.47-.55-.63-.88-.16-.31-.27-.66-.34-1.02-.58.33-1.16.7-1.73 1.13-.58.44-1.14.94-1.69 1.48-.7.7-1.33 1.81-1.78 2.45H3L0 10h3l2-2c-.34.77-1.02 2.98-1 3l1 1c.02.02 2.23-.64 3-1l-2 2v3l3-3v-3c.64-.45 1.75-1.09 2.45-1.78.55-.55 1.05-1.13 1.47-1.7.44-.58.81-1.16 1.14-1.72-.36-.08-.7-.19-1.03-.34a3.39 3.39 0 0 1-.86-.63zM16 0s-.09.38-.3 1.06c-.2.7-.55 1.58-1.06 2.66-.7-.08-1.27-.33-1.66-.72-.39-.39-.63-.94-.7-1.64C13.36.84 14.23.48 14.92.28 15.62.08 16 0 16 0z"></path></svg>
-              <span class="num text-emphasized">
-              </span>
-              environment
-            </a>
-          </li>
+         
 
-          <li>
-              <a href="https://github.com/Anam140601/OOP/graphs/contributors">
-  <svg class="octicon octicon-organization" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 12.999c0 .439-.45 1-1 1H7.995c-.539 0-.994-.447-.995-.999H1c-.54 0-1-.561-1-1 0-2.634 3-4 3-4s.229-.409 0-1c-.841-.621-1.058-.59-1-3 .058-2.419 1.367-3 2.5-3s2.442.58 2.5 3c.058 2.41-.159 2.379-1 3-.229.59 0 1 0 1s1.549.711 2.42 2.088C9.196 9.369 10 8.999 10 8.999s.229-.409 0-1c-.841-.62-1.058-.59-1-3 .058-2.419 1.367-3 2.5-3s2.437.581 2.495 3c.059 2.41-.158 2.38-1 3-.229.59 0 1 0 1s3.005 1.366 3.005 4z"></path></svg>
-    <span class="num text-emphasized">
-    </span>
-    contributor
-</a>
-
-          </li>
+          
 
       </ul>
 
-        <div class="repository-lang-stats">
-          <ol class="repository-lang-stats-numbers">
-            <li>
-                <a href="https://github.com/Anam140601/OOP/search?l=php" data-ga-click="Repository, language stats search click, location:repo overview">
-                  <span class="color-block language-color" style="background-color:#4F5D95;"></span>
-                  <span class="lang">PHP</span>
-                  <span class="percent">100.0%</span>
-                </a>
-            </li>
-          </ol>
-        </div>
+        
       </div>
     </div>
   </div>
