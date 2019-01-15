@@ -461,13 +461,6 @@ belajar oop
 
   <div class="commit-tease js-details-container Details d-flex rounded-top-1" data-issue-and-pr-hovercards-enabled="">
     
-<div class="AvatarStack flex-self-start ">
-  <div class="AvatarStack-body" aria-label="Anam140601">
-
-        <a class="avatar" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=46589904" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Anam140601" aria-describedby="hovercard-aria-description">
-          <img alt="@Anam140601" src="https://avatars3.githubusercontent.com/u/46589904?s=60&amp;v=4" width="20" height="20">
-</a>  </div>
-</div>
 
     <div class="flex-auto f6 mr-3">
       
