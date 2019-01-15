@@ -493,7 +493,6 @@ belajar oop
         <th><span class="sr-only">Type</span></th>
         <th><span class="sr-only">Name</span></th>
         <th><span class="sr-only">Latest commit message</span></th>
-        <th><span class="sr-only">Commit time</span></th>
       </tr>
     </thead>
 
@@ -517,8 +516,7 @@ belajar oop
                   <a data-pjax="true" title="Merapihkan tampilan index" class="message" href="https://github.com/Anam140601/OOP/commit/e5672893305cf1b676315d1465a072eb5f55b84b">Merapihkan tampilan index</a>
             </span>
           </td>
-          <td class="age">
-            <span class="css-truncate css-truncate-target"><time-ago datetime="2019-01-11T14:46:37Z" title="Jan 11, 2019, 9:46 PM GMT+7">4 days ago</time-ago></span>
+          >
           </td>
         </tr>
         <tr class="js-navigation-item" aria-selected="false">
@@ -534,9 +532,7 @@ belajar oop
                   <a data-pjax="true" title="Update README.md" class="message" href="https://github.com/Anam140601/OOP/commit/0f46748a0fb105446c487eb2e6ac6a062607b57d">Update README.md</a>
             </span>
           </td>
-          <td class="age">
-            <span class="css-truncate css-truncate-target"><time-ago datetime="2019-01-15T02:52:21Z" title="Jan 15, 2019, 9:52 AM GMT+7">18 minutes ago</time-ago></span>
-          </td>
+          
         </tr>
         <tr class="js-navigation-item navigation-focus" aria-selected="true">
           <td class="icon">
@@ -551,9 +547,7 @@ belajar oop
                   <a data-pjax="true" title="Set theme jekyll-theme-hacker" class="message" href="https://github.com/Anam140601/OOP/commit/4385cf74b28989fa3c4d704be80c8c12cc0ce8d3">Set theme jekyll-theme-hacker</a>
             </span>
           </td>
-          <td class="age">
-            <span class="css-truncate css-truncate-target"><time-ago datetime="2019-01-13T09:31:30Z" title="Jan 13, 2019, 4:31 PM GMT+7">2 days ago</time-ago></span>
-          </td>
+          
         </tr>
     </tbody>
   </table>
