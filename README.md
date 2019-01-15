@@ -80,7 +80,7 @@ belajar oop
         <div class="js-socket-channel js-updatable-content" data-channel="repo:165196219:post-receive:46589904" data-url="https://github.com/Anam140601/OOP/show_partial?partial=tree%2Frecently_touched_branches_list">
   </div>
 
-    </div>
+   
 
   <div class="file-navigation in-mid-page d-flex flex-items-start">
   
@@ -101,32 +101,6 @@ belajar oop
 </div>
 
 
-        <a href="https://github.com/Anam140601/OOP/pull/new/master" class="btn btn-sm new-pull-request-btn" data-pjax="" data-ga-click="Repository, new pull request, location:repo overview">
-          New pull request
-        </a>
-
-  <div class="breadcrumb flex-auto">
-    
-  </div>
-
-  <div class="BtnGroup">
-      
-  <!-- '"` --><!-- </textarea></xmp> --><form class="BtnGroup-form" action="https://github.com/Anam140601/OOP/new/master" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="wqGR7EF4r/Gb9CjhaO08OfYZtMUReD7SF80N59AAmZDpxJ9wy09mA38YdK800jXNTGSsICR/aqjaMfy2+iY7Xw==">
-    <button class="btn btn-sm BtnGroup-item" type="submit" data-disable-with="Creating file…">
-      Create new file
-    </button>
-</form>
-
-      
-  <a href="https://github.com/Anam140601/OOP/upload/master" class="btn btn-sm BtnGroup-item">
-    Upload files
-  </a>
-
-
-    <a href="https://github.com/Anam140601/OOP/find/master" class="btn btn-sm empty-icon float-right BtnGroup-item" data-pjax="" data-hotkey="t" data-ga-click="Repository, find file, location:repo overview">
-      Find file
-    </a>
-  </div>
   
 
     <details class="get-repo-select-menu js-get-repo-select-menu position-relative details-overlay details-reset">
@@ -237,16 +211,10 @@ belajar oop
 
     <div class="flex-auto f6 mr-3">
       
-      <a href="https://github.com/Anam140601/OOP/commits?author=Anam140601" class="commit-author tooltipped tooltipped-s user-mention" aria-label="View all commits by Anam140601">Anam140601</a>
+      <a href="https://github.com/Anam140601/OOP/commits?author=Anam140601" class="commit-author tooltipped tooltipped-s user-mention" aria-label="View all commits by Anam140601">View All Commit</a>
 
     </div>
-    <div class="no-wrap">
-      Latest commit
-      <a class="commit-tease-sha" href="https://github.com/Anam140601/OOP/commit/0f46748a0fb105446c487eb2e6ac6a062607b57d" data-pjax="">
-        0f46748
-      </a>
-      
-    </div>
+    
   </div>
 
 
