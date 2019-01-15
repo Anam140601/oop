@@ -39,9 +39,7 @@
                 <p class="mb-2 get-repo-decription-text">
                 Copy perintah git di bawah lalu pastekan di git kamu.
                 </p>
-                <p class="mb-2 get-repo-decription-text">
-                git clone https://github.com/Anam140601/OOP.git
-                </p>
+                <input value="git clone https://github.com/Anam140601/OOP.git">
                   </div>
              </div>
             </div>
