@@ -485,7 +485,7 @@ belajar oop
       <a class="commit-tease-sha" href="https://github.com/Anam140601/OOP/commit/0f46748a0fb105446c487eb2e6ac6a062607b57d" data-pjax="">
         0f46748
       </a>
-      <span itemprop="dateModified"><relative-time datetime="2019-01-15T02:52:21Z" title="Jan 15, 2019, 9:52 AM GMT+7">18 minutes ago</relative-time></span>
+      
     </div>
   </div>
 
